@@ -1,5 +1,5 @@
 {
-  "name": "node-api-example",
+  "name": "js-starter-kit-api",
   "version": "1.0.0",
   "description": "A simple API built in Node and Express hosted on Heroku",
   "main": "index.js",
@@ -7,15 +7,15 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "cors": "2.8.1",
-    "express": "4.13.3"
+    "cors": "2.8.5",
+    "express": "4.17.3"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "16.14.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+    "url": "https://github.com/princeoprince/js-starter-kit-api"
   },
   "author": "Cory House",
   "license": "MIT"
