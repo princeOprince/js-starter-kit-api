@@ -1,2 +1,2 @@
-# js-dev-env-demo-api
-API for JS Dev Env Demo in Pluralsight course
+# js-starter-kit-api
+API for JS Devevelopment Environment Demo in Pluralsight course
